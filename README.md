@@ -7,6 +7,6 @@
 - 🐍 Python enthusiast
 
 ### Bio
-- 🌎 Located in Kanata, Ontario
+- 🌎 Located in Ashton, Ontario
 - 📫 How to reach me: hayter.eric@gmail.com
 - ⚡ Fun fact: I love math
