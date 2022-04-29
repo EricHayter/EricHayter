@@ -3,7 +3,7 @@
 
 ### My Work
 - 🔭 I’m currently working on type-mania: a game to practice your typing against friends.
-- 🌱 I’m currently learning Pandas and Numpy
+- 🌱 I’m currently learning Tensorflow and PIL
 - 🐍 Python enthusiast
 
 ### Bio
