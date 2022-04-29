@@ -2,7 +2,7 @@
 ##### I'm a full-time student with a love of coding!
 
 ### My Work
-- 🔭 I’m currently working on type-mania: a game to practice your typing against friends.
+- 🔭 I’m currently working on a python module that can perform steganography.
 - 🌱 I’m currently learning Tensorflow and PIL
 - 🐍 Python enthusiast
 
